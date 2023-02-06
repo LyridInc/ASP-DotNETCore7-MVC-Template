@@ -1,0 +1,234 @@
+/* _content/ASP-DotNETCore7-MVC-Template/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-vw5fbhof4n] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-vw5fbhof4n] {
+  color: #0077cc;
+}
+
+.btn-primary[b-vw5fbhof4n] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-vw5fbhof4n], .nav-pills .show > .nav-link[b-vw5fbhof4n] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-vw5fbhof4n] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-vw5fbhof4n] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-vw5fbhof4n] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-vw5fbhof4n] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-vw5fbhof4n] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/ASP-DotNETCore7-MVC-Template/Views/Shared/_LyridSplashScreen.cshtml.rz.scp.css */
+.container[b-kb1xilvbru] {
+    padding: 0 2rem;
+  }
+  
+  .main[b-kb1xilvbru] {
+    width: 100%;
+    min-height: 100vh;
+    padding: 0;
+    flex: 1;
+    display: flex;
+    justify-content: space-between;
+    background-image: url("../assets/img/bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .container[b-kb1xilvbru] {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .left[b-kb1xilvbru] {
+    width: 50%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  
+  .atas[b-kb1xilvbru] {
+    padding-left: 350px;
+  }
+  
+  .logo[b-kb1xilvbru] {
+    margin: 0;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    padding: 0;
+    text-align: left;
+    user-select: none;
+  }
+  
+  .title[b-kb1xilvbru] {
+    margin: 0;
+    margin-bottom: 5px;
+    padding: 0;
+    color: white;
+    font-weight: 500;
+    font-size: 40px;
+  }
+  
+  .subtitle[b-kb1xilvbru] {
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-size: 16px;
+  }
+  
+  .mascot[b-kb1xilvbru] {
+    width: 550px;
+    user-select: none;
+  }
+  
+  .right[b-kb1xilvbru] {
+    width: 50%;
+    display: flex;
+  }
+  
+  .docsEx[b-kb1xilvbru] {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .boxRight[b-kb1xilvbru] {
+    z-index: 99;
+    width: 450px;
+    border: 2px solid #654CE1;
+    border-radius: 5px;
+    padding: 15px 25px;
+    margin: 10px 0;
+    margin-left: 100px;
+  }
+  
+  .boxRight:hover[b-kb1xilvbru] {
+    border-color: #444;
+  }
+  
+  .boxTitle[b-kb1xilvbru] {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .docs[b-kb1xilvbru] {
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #444444;
+    margin: 0;
+    padding: 7px 0;
+  }
+  
+  .arrow[b-kb1xilvbru] {
+    height: 20px;
+    width: 20px;
+    user-select: none;
+  }
+  
+  .ex[b-kb1xilvbru] {
+    margin: 0;
+    color: #707070;
+    font-size: 21px;
+    padding: 7px 0;
+    font-weight: 400;
+  }
+  
+  @media (max-width: 1400px) {
+    .grid[b-kb1xilvbru] {
+      width: 100%;
+      flex-direction: column;
+    }
+  
+    .atas[b-kb1xilvbru] {
+      padding-left: 275px;
+    }
+  
+    .logo[b-kb1xilvbru] {
+      width: 100px;
+      margin: 0;
+      margin-top: 15px;
+      margin-bottom: 30px;
+      padding: 0;
+      text-align: left;
+    }
+  
+    .title[b-kb1xilvbru] {
+      margin: 0;
+      margin-bottom: 5px;
+      padding: 0;
+      color: white;
+      font-weight: 500;
+      font-size: 30px;
+    }
+  
+    .subtitle[b-kb1xilvbru] {
+      margin: 0;
+      padding: 0;
+      color: white;
+      font-size: 12.5px;
+    }
+  
+    .mascot[b-kb1xilvbru] {
+      width: 475px;
+    }
+  
+    .boxRight[b-kb1xilvbru] {
+      width: 325px;
+      border: 2px solid #654CE1;
+      background: #fff;
+      margin-left: 150px;
+    }
+  
+    .docs[b-kb1xilvbru] {
+      font-family: Poppins;
+      font-size: 20px;
+      font-weight: 400;
+      letter-spacing: 1px;
+      color: #444444;
+      margin: 0;
+      padding: 7px 0;
+    }
+  
+    .ex[b-kb1xilvbru] {
+      margin: 0;
+      color: #707070;
+      font-size: 15px;
+      padding: 7px 0;
+      font-weight: 400;
+    }
+  }
+  
