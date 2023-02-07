@@ -1,0 +1,12 @@
+name: dotnet7_asp_MVC
+description: App Description
+ignoreFiles: .git bin obj
+modules:
+- name: template
+  language: dotnetcore7.x
+  web: asp
+  description: Module description
+  functions:
+  - name: _LyridSplashScreen
+    entry: _LyridSplashScreen.cshtml
+    description: the entry point for the function
