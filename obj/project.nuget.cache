@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8wjLkpqeGskLFhPaHfYpsnc5XRc5C/GlI1J6C1ISmS1AVEMmAObLFYTRvlmE+x/kucFiT5GtPfjZU2GgfUQhpg==",
+  "dgSpecHash": "uwCL9t5/nlBysiEDpbuMcvaQxCBbDCm1ml8mmi9ZAlB8yvc5i5D8zRUxeYjIzrVJ8Jy0hx1Jldi+NZXms48KWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-MVC-Template\\ASP-DotNETCore7-MVC-Template.csproj",
+  "projectFilePath": "C:\\Users\\rando\\repo\\forked frameworks\\ASP-DotNETCore7-MVC-Template\\ASP-DotNETCore7-MVC-Template.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

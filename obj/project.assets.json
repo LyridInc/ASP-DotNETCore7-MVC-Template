@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-MVC-Template\\ASP-DotNETCore7-MVC-Template.csproj",
+      "projectUniqueName": "C:\\Users\\rando\\repo\\forked frameworks\\ASP-DotNETCore7-MVC-Template\\ASP-DotNETCore7-MVC-Template.csproj",
       "projectName": "ASP-DotNETCore7-MVC-Template",
-      "projectPath": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-MVC-Template\\ASP-DotNETCore7-MVC-Template.csproj",
+      "projectPath": "C:\\Users\\rando\\repo\\forked frameworks\\ASP-DotNETCore7-MVC-Template\\ASP-DotNETCore7-MVC-Template.csproj",
       "packagesPath": "C:\\Users\\rando\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rando\\repo\\framework templates\\ASP-DotNETCore7-MVC-Template\\obj\\",
+      "outputPath": "C:\\Users\\rando\\repo\\forked frameworks\\ASP-DotNETCore7-MVC-Template\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rando\\AppData\\Roaming\\NuGet\\NuGet.Config"
