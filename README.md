@@ -1,7 +1,7 @@
 # ASP-DotNETCore7-MVC-Template
 
 ## SAMPLE TEMPLATE
-![hi](/dotnet5_asp.template/wwwroot/assets/img/lyrid_logo_large.png)
+![hi](/wwwroot/assets/img/lyrid_logo_large.png)
 This template is for _language_ suitable for uploading to the Lyrid Platform.
 
 ## Prerequisites 
